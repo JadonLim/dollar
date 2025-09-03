@@ -32,8 +32,8 @@ int main(int argc, char **argv) {
 
     amountAfterFee = (initAmount - fee);
 
-    jpyAmount = (amountAfterFee * 127.65);
-    gbpAmount = (amountAfterFee * 0.79);
+    jpyAmount = (amountAfterFee * 127.65 * 0.5);
+    gbpAmount = (amountAfterFee * 0.79 * 0.5);
 
     printf("You get:\n");
     printf("%0.2lf GBP\n", gbpAmount);
