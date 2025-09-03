@@ -1,7 +1,7 @@
 /**
- * Author: Jadon
+ * Author: Jadon Lim
  *
- * Date: 2025/08/22
+ * Date: 2025/09/02
  *
  * A program that converts US Dollars
  * to British Pound and Japanese Yen.
